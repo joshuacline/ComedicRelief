@@ -6,45 +6,7 @@
 <a href="https://youtu.be/0tkO_4tGf2E" target="_blank"><img src="drivingwedges.gif" alt=" " width="720"/></a>
 
 <a href="https://github.com/joshuacline/InSession/raw/refs/heads/main/trainers.mp4" target="_blank"><img src="majorgraves.jpg" alt=" " width="720"/></a>
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+
 <a href="https://youtu.be/hCazWejbH_c" target="_blank"><img src="ksaltfactory.jpg" alt=" " width="720"/></a>
+
+<a href="https://youtu.be/TX244qjY2eg" target="_blank"><img src="brokenrecord.jpg" alt=" " width="720"/></a>
